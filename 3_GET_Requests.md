@@ -4,10 +4,10 @@ A GET request is used to obtain details from the server and does not have any im
 *Follow the steps given below to create a GET request successfully in Postman:*
 
 **Step 1:** Select “Collections” and  “ + ” at the top left corner.
-!(https://github.com/lmx97/Postman_Beginners_Tutorial/blob/main/image/GR_Step1.png)
+![](https://github.com/lmx97/Postman_Beginners_Tutorial/blob/main/image/GR_Step1.png)
 
 **Step 2:** Click on “...” and Select “Add request”.
-[!(blob:https://littledevil.atlassian.net/2361aec7-ced4-4466-9c15-621238ba9952)]
+![](blob:https://littledevil.atlassian.net/2361aec7-ced4-4466-9c15-621238ba9952)
 
 **Step 3:** If you want to save the request name, you can click on “Save As” at the right top corner, enter the Request name then click on save. 
 [!(blob:https://littledevil.atlassian.net/03c37122-3d60-4ab8-8e65-14e80218120b)]

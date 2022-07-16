@@ -7,6 +7,7 @@ A GET request is used to obtain details from the server and does not have any im
 ![GR_Step1.png](https://github.com/lmx97/Postman_Beginners_Tutorial/blob/main/image/GR_Step1.png)
 
 **Step 2:** Click on “...” and Select “Add request”.
+
 ![GR_Step2.png](https://github.com/lmx97/Postman_Beginners_Tutorial/blob/main/image/GR_Step2.png)
 
 **Step 3:** If you want to save the request name, you can click on “Save As” at the right top corner, enter the Request name then click on save. 

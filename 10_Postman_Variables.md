@@ -5,7 +5,7 @@ Postman has different variable scopes. Those variable scopes are collection vari
 Environments are useful if you have different environments. For example, you are developing software and you have a local development environment (local host), you have a testing development environment and you have a production development environment then you can define multiple environments and you can easily switch within them. <br/>
 
 
-**_Example:** use a postman variable to store the order id._
+**_Example:_** _use a postman variable to store the order id._
 
 
 **Step 1:** Click on eye icon at the top right corner and click on “Edit” at the part of Globals.<br/>

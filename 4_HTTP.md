@@ -1,4 +1,4 @@
-### HTTP
+## HTTP
 
 HTTPS stands for hypertext transfer protocol (http) and s means secure. HTTP and HTTPS are essentially the same thing. 
 

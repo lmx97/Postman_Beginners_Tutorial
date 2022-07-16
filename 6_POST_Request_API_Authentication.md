@@ -18,8 +18,7 @@ We need to send http messages to the server and the server only responds. We nee
 ![PR_Step3.png](https://github.com/lmx97/Postman_Beginners_Tutorial/blob/main/image/POST_Request/PR_Step3.png)
 
 
-**Response**
-
+**Response**<br/>
 Once a post request has been sent, we got back an access token. 
 ![PR_Step3_Response.png](https://github.com/lmx97/Postman_Beginners_Tutorial/blob/main/image/POST_Request/PR_Step3_Response.png)
 

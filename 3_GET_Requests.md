@@ -4,7 +4,7 @@ A GET request is used to obtain details from the server and does not have any im
 *Follow the steps given below to create a GET request successfully in Postman:*
 
 **Step 1:** Select “Collections” and  “ + ” at the top left corner.
-[!(blob:https://littledevil.atlassian.net/837e5ec7-b96d-470d-b114-b171d1978a9c)]
+!(https://littledevil.atlassian.net/837e5ec7-b96d-470d-b114-b171d1978a9c](https://littledevil.atlassian.net/jira/software/projects/DLD/boards/1?selectedIssue=DLD-6)
 
 **Step 2:** Click on “...” and Select “Add request”.
 [!(blob:https://littledevil.atlassian.net/2361aec7-ced4-4466-9c15-621238ba9952)]

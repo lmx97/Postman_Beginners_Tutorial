@@ -32,7 +32,7 @@ Once a post request has been sent, we got back an access token. <br/>
 Click on “Variables”, And add new variable “accessToken”, past the token in “initial value” or “current value”.<br/>
 ![PR_Step4(2).png](https://github.com/lmx97/Postman_Beginners_Tutorial/blob/main/image/POST_Request/PR_Step4(2).png)
 
-**Initial Value:** The initial value is shared with your team when you share the variable in a collection, environment or globals.
+**Initial Value:** The initial value is shared with your team when you share the variable in a collection, environment or globals.<br/>
 **Current Value:** The current value is used while sending a request. Current value are never synced to Postman’s servers. If left untouched, the current value automatically assumes the initial value. 
 
 
